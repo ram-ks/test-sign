@@ -1,3 +1,3 @@
 # test-sign
 
-Test repo for gpg
+Test repo for gpg keys
